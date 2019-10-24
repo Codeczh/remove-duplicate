@@ -28,6 +28,6 @@ Run ` gather.py ` to generate `repeat` folder, containing duplicate images, unde
 Run `move_repeat.py` to move those repeat images intra sub-classes to `repeat_sub` under `web-bird` as well.
 
 ------------
-reference: 
+reference:    
 [cnblog中文翻译](https://www.cnblogs.com/wing1995/p/4471034.html)   
 [web fine-grained 去重简介](http://note.youdao.com/noteshare?id=07d47b895298c58c6c0ffc11833741c8)
